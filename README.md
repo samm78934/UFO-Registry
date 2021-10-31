@@ -2,6 +2,9 @@
 
 UFO-Registry is a webpage where people can view and add different UFO sightings.
 
+Dataset: https://data.world/sam980199/ufo-sightings/workspace/file?agentid=timothyrenner&filename=nuforc_reports.json
+Example Geographic Streamlit Project: https://github.com/streamlit/demo-uber-nyc-pickups
+
 ## Installs
 
 You need Python streamlit: pip install streamlit
